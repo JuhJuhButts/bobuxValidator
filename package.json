@@ -1,0 +1,18 @@
+{
+  "name": "bobuxvalidatorjs",
+  "version": "1.0.0",
+  "description": "Validates the amount of bobux you have",
+  "main": "bobuxValidator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm i && node ."
+  },
+  "author": "Joel N. Evans",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "4.11.1"
+  }
+}
